@@ -1,0 +1,31 @@
+supplier_id,supplier_name,country,tax_id,contact_email,payment_terms
+SUP-101,Lonza AG Visp,CH,CHE-123.456.789,supply.visp@lonza.com,Net 30
+SUP-102,Lonza Ltd.,Switzerland,,info@lonza.ch,30 days
+SUP-103,Sartorius Stedim,DE,DE811122334,order@sartorius,Net 60
+SUP-104,Thermo Fisher Sci.,USA,US-987654321,sales@thermo.com,Net 30
+SUP-105,Merck KGaA,DE,,,
+SUP-106,Sartorius AG,Germany,DE811122334,contact@sartorius.de,Net 60
+SUP-107,Cytiva Europe GmbH,CH,CHE-998.877.665,orders.eu@cytiva.com,Net 45
+SUP-108,Ecolab Inc,US,US-112233445,support@ecolab.com,Net 30
+SUP-109,Ecolab Deutschland,DE,DE998811223,service_ecolab.de,Net 30
+SUP-110,Roche Diagnostics,CH,CHE-445.566.778,procurement@roche.ch,Net 60
+SUP-111,  Siegfried AG ,CH,CHE-221.334.556,info@siegfried.ch,Net 30
+SUP-112,Bachem Holding,ch,CHE-110.220.330,Sales@Bachem.COM,Net30
+SUP-113,Merck KGaA,Deutschland,DE445566778,orders@merckgroup.com,Net 45
+SUP-114,Danaher Corp.,United States,US-556677889,procurement@danaher.com,60
+SUP-115,Avantor Inc,US,N/A,orders@avantor.com,Net 30
+SUP-116,Corning GmbH,DE,DE112233445,info@corning,45 days
+SUP-117,Eppendorf SE,DE,DE 223 344 556,sales@eppendorf.com,Net 30
+SUP-118,Repligen Corp,USA,US-778899001,,Net 60
+SUP-119,Novartis AG,CH,CHE-334.455.667,supply@novartis.com,
+SUP-120,Mettler-Toledo,CH,CHE-667.788.990,service@mt.com,Net 30
+SUP-110,Roche Pharma,CH,CHE-445.566.778,pharma@roche.ch,Net 60
+SUP-122,Waters Corporation,US,US-889900112,orders@waters.com,Net 45
+SUP-123,Agilent Technologies,USA,US-990011223,sales@agilent,Net 30
+SUP-124,Fresenius Kabi,DE,DE334455667,contact@fresenius-kabi.com,Net 60
+SUP-125,Lonza Group AG,CH,CHE-123.456.789,group@lonza.com,Net 30
+SUP-126,Bio-Rad Laboratories,US,,support@bio-rad.com,Net 30
+SUP-127,Qiagen N.V.,Germany,DE556677889,info qiagen.com,30 days
+SUP-128,Sigma-Aldrich,US,US-001122334,SALES@SIGMAALDRICH.COM,Net 45
+SUP-129,Tecan Group,Switzerland,CHE-778.899.001,info@tecan.com,Net  30
+SUP-130,Hamilton AG,CH,CHE-889.900.112,orders@hamilton.ch,Net 60
